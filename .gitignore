@@ -1,0 +1,30 @@
+# npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ビルド出力
+dist/*
+!dist/.gitkeep
+
+# エディタ/IDE
+*.code-workspace
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.lnk
+
+# npm キャッシュ
+.npm
+
+# ログ
+logs
+*.log
+
+# その他
+.cache/
+.temp/
