@@ -2,11 +2,18 @@
 
 TypeScriptの練習用レポジトリ
 
+## 準備
+
+あらかじめ下記をダウンロードしておく
+
+- [VSCode](https://code.visualstudio.com/)
+- [Node.js](https://nodejs.org/en/download/prebuilt-installer)
+
 ## 使い方
 
 ### モジュールのインストール
 
-デバッグコンソールで下記コマンドを実行する｡
+コンソールで下記コマンドを実行する｡
 
 ```bash
 npm install
@@ -16,4 +23,4 @@ npm install
 
 ### TSの実行
 
-`src/practice001.ts`を開き､実行とデバッグ`F5`をする｡
+VSCodeでプロジェクトフォルダを開き､`src/practice001.ts`を開き､実行とデバッグ`F5`をする｡
