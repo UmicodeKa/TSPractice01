@@ -9,6 +9,10 @@ TypeScriptの練習用レポジトリ
 - [VSCode](https://code.visualstudio.com/)
 - [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
+- VSCode拡張機能
+  -[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ## 使い方
 
 ### モジュールのインストール
