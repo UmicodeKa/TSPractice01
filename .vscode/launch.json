@@ -11,7 +11,7 @@
       "preLaunchTask": "TSC Compile",
       "cwd": "${workspaceFolder}",
       "program": "${file}",
-      "console": "internalConsole"
+      "console": "integratedTerminal"
     }
   ]
 }
